@@ -68,3 +68,15 @@
 > ### recommend2(self, recommendation):
 > Function that gets recommendation from 2 song
 > Returns a list containing the recommended songs
+
+
+Reference : 
+Dataset : https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
+http://millionsongdataset.com/
+
+Data Crawling : https://dada-devdiary.tistory.com/34?category=994161
+
+Content-based-filtering : https://towardsdatascience.com/the-abc-of-building-a-music-recommender-system-part-i-230e99da9cad
+
+Collaborative-filtering : https://github.com/ugis22/music_recommender
+
